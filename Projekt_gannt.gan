@@ -39,15 +39,15 @@
                 <task id="29" name="Forbered semi struktureret interview" meeting="false" start="2016-04-12" duration="1" complete="0" expand="true"/>
                 <task id="14" name="Mødetidspunkt" color="#8cb6ce" meeting="true" start="2016-04-14" duration="0" complete="0" expand="true"/>
             </task>
-            <task id="2" name="1. Brugerkonfrontation" meeting="false" start="2016-04-14" duration="1" complete="0" expand="true">
+            <task id="2" name="1. Brugerkonfrontation" meeting="false" start="2016-04-14" duration="3" complete="0" expand="true">
                 <task id="31" name="Planlæg 1.brugerkonfrontation" meeting="false" start="2016-04-14" duration="1" complete="0" expand="true"/>
-                <task id="5" name="Observation" color="#8cb6ce" meeting="true" start="2016-04-14" duration="0" complete="0" expand="true"/>
-                <task id="6" name="Contextual Inquiry" color="#8cb6ce" meeting="true" start="2016-04-14" duration="0" complete="0" expand="true"/>
+                <task id="5" name="Observation" color="#8cb6ce" meeting="true" start="2016-04-19" duration="0" complete="0" expand="true"/>
+                <task id="6" name="Contextual Inquiry" color="#8cb6ce" meeting="true" start="2016-04-19" duration="0" complete="0" expand="true"/>
             </task>
             <task id="26" name="Dataopsamling og sortering" meeting="false" start="2016-04-14" duration="3" complete="0" expand="true"/>
         </task>
-        <task id="16" name="Envisionment" meeting="false" start="2016-04-18" duration="3" complete="0" expand="true">
-            <task id="28" name="Forbered fremtidsworkshop" meeting="false" start="2016-04-18" duration="3" complete="0" expand="true"/>
+        <task id="16" name="Envisionment" meeting="false" start="2016-04-20" duration="3" complete="0" expand="true">
+            <task id="28" name="Forbered fremtidsworkshop" meeting="false" start="2016-04-20" duration="3" complete="0" expand="true"/>
             <task id="3" name="2. Brugerkonfrontation: Fremtidsworkshop" color="#8cb6ce" meeting="true" start="2016-04-21" duration="0" complete="0" expand="true"/>
         </task>
         <task id="18" name="Design" meeting="false" start="2016-04-22" duration="13" complete="0" expand="true">
