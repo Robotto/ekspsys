@@ -34,7 +34,7 @@
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
         <task id="30" name="Planlægningsdag" meeting="false" start="2016-04-12" duration="1" complete="0" expand="true"/>
-        <task id="15" name="Understanding" meeting="false" start="2016-04-12" duration="5" complete="0" expand="true">
+        <task id="15" name="Understanding" meeting="false" start="2016-04-12" duration="11" complete="0" expand="true">
             <task id="0" name="Indledende Møde med Jane på Dokk1" meeting="false" start="2016-04-12" duration="2" complete="0" expand="true">
                 <task id="29" name="Forbered semi struktureret interview" meeting="false" start="2016-04-12" duration="1" complete="0" expand="true"/>
                 <task id="14" name="Mødetidspunkt" color="#8cb6ce" meeting="true" start="2016-04-14" duration="0" complete="0" expand="true"/>
@@ -45,17 +45,14 @@
                 <task id="6" name="Contextual Inquiry" color="#8cb6ce" meeting="true" start="2016-04-19" duration="0" complete="0" expand="true"/>
             </task>
             <task id="26" name="Dataopsamling og sortering" meeting="false" start="2016-04-14" duration="3" complete="0" expand="true"/>
+            <task id="28" name="Forbered Medarbejderinterview" meeting="false" start="2016-04-20" duration="3" complete="0" expand="true"/>
+            <task id="19" name="Medarbejderinterview" meeting="false" start="2016-04-26" duration="1" complete="0" expand="true"/>
         </task>
-        <task id="16" name="Envisionment" meeting="false" start="2016-04-20" duration="3" complete="0" expand="true">
-            <task id="28" name="Forbered fremtidsworkshop" meeting="false" start="2016-04-20" duration="3" complete="0" expand="true"/>
-            <task id="3" name="2. Brugerkonfrontation: Fremtidsworkshop" color="#8cb6ce" meeting="true" start="2016-04-21" duration="0" complete="0" expand="true"/>
-        </task>
-        <task id="18" name="Design" meeting="false" start="2016-04-22" duration="13" complete="0" expand="true">
-            <task id="19" name="Opsamling på fremtidsworkshop" meeting="false" start="2016-04-25" duration="1" complete="0" expand="true">
-                <depend id="23" type="2" difference="0" hardness="Strong"/>
+        <task id="16" name="Envisionment" meeting="false" start="2016-04-22" duration="14" complete="0" expand="true">
+            <task id="18" name="Design" meeting="false" start="2016-04-22" duration="14" complete="0" expand="true">
+                <task id="23" name="ByggeByggeHamreSaveKode?!" color="#8cb6ce" meeting="false" start="2016-04-27" duration="11" complete="0" expand="true"/>
+                <task id="27" name="Brainstorm som opsamling på understanding?" meeting="false" start="2016-04-22" duration="1" complete="0" expand="true"/>
             </task>
-            <task id="23" name="ByggeByggeHamreSaveKode?!" meeting="false" start="2016-04-26" duration="11" complete="0" expand="true"/>
-            <task id="27" name="Brainstorm som opsamling på fremtidsWS?" meeting="false" start="2016-04-22" duration="1" complete="0" expand="true"/>
         </task>
         <task id="17" name="Evaluation" meeting="false" start="2016-05-03" duration="14" complete="0" expand="true">
             <task id="11" name="Afl3" color="#8cb6ce" meeting="true" start="2016-05-03" duration="0" complete="0" expand="true"/>
